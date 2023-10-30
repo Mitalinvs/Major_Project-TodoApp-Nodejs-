@@ -1,0 +1,2 @@
+//npm install express for GET, POST 
+//npm install ejs:embedded javascript: 
